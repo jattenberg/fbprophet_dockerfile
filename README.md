@@ -1,2 +1,2 @@
 # fbprophet_dockerfile
-a docker image with fbprophet 
+a python 3.8 docker image with fbprophet 
